@@ -10,7 +10,7 @@
 
 ```js
 // refresh version
-const URL = `https://cdn.jsdelivr.net/gh/ifyour/assets@${GIT_COMMIT_HASH}/`
+const URL = `https://cdn.jsdelivr.net/gh/ifyour/assets@${GIT_COMMIT_HASH}/${FOLDER_NAME}/${FILE_NAME}`
 ```
 
 ### License
