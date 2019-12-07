@@ -1,0 +1,6 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "img/original_picture/*",
+    ]
+}
