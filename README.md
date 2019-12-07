@@ -1,6 +1,6 @@
 ### ![Size](https://github-size-badge.herokuapp.com/ifyour/assets.svg) [![](https://data.jsdelivr.com/v1/package/gh/ifyour/assets/badge)](https://www.jsdelivr.com/package/gh/ifyour/assets)
 
-### Cache central
+### Cache control
 
 - [24-hour update version](https://cdn.jsdelivr.net/gh/ifyour/assets@latest/)
 - [Update immediately version](https://www.jsdelivr.com/package/gh/ifyour/assets): click `specific git commit hash`
