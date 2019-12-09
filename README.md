@@ -8,6 +8,7 @@
 - [24-hour update version](https://cdn.jsdelivr.net/gh/ifyour/assets@latest/)
 - [Update immediately version](https://www.jsdelivr.com/package/gh/ifyour/assets): click `specific git commit hash`
 
+#### Example
 ```js
 // 24-hour update version
 const URL = `https://cdn.jsdelivr.net/gh/ifyour/assets@latest/${FOLDER_NAME}/${FILE_NAME}`
@@ -15,7 +16,7 @@ const URL = `https://cdn.jsdelivr.net/gh/ifyour/assets@latest/${FOLDER_NAME}/${F
 
 // update immediately version
 const URL = `https://cdn.jsdelivr.net/gh/ifyour/assets@${GIT_COMMIT_HASH}/${FOLDER_NAME}/${FILE_NAME}`
-// eg: https://cdn.jsdelivr.net/gh/ifyour/assets@2277e1bb416706395cbe79d576d70a30b4ec69a5/media/output.mp4
+// eg: https://cdn.jsdelivr.net/gh/ifyour/assets@75619c959c769d4704a751f20036b54ee5ae3ffe/video/output.mp4
 ```
 
 ### License
