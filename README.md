@@ -4,6 +4,9 @@
 
 ### Usage
 
+#### Living file manager
+[🎉Click me 🎉](https://demo.filestash.app/login?type=git&repo=https://github.com/ifyour/assets)
+
 #### Cache control
 - [24-hour update version](https://cdn.jsdelivr.net/gh/ifyour/assets@latest/)
 - [Update immediately version](https://www.jsdelivr.com/package/gh/ifyour/assets): click `specific git commit hash`
